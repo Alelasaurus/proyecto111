@@ -1,0 +1,21 @@
+body{
+    color: green;
+    background: aqua;
+}
+.encabezado{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object,#result_object_name,#result_object_accuracy{
+color: black;
+}
+#camera{
+border: 2px blue;
+width: 350px;
+height: 300px;
+}
+#result{
+    border: 2px brown;
+    width: 350px;
+height: 300px;
+}
